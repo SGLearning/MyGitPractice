@@ -1,0 +1,6 @@
+clone the URL from central repository to create local workspace
+create files or folders
+add them to staging area
+commit the files
+push the files to central repository
+verify the status of the files
